@@ -1,0 +1,36 @@
+#container {
+    padding: 130px;
+    border: 1px solid black;
+    background-color: whitesmoke;
+
+}
+.button {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 40px;
+    text-align: center;
+    margin: 10px;
+    font-size: 25px;
+    background-color: white;
+}
+#one {
+    border-color: orangered;
+    color: orangered;
+}
+#one:hover {
+    background-color: lightsalmon;
+}
+#two {
+    border-color: green;
+    color: green;
+}
+#two:hover {
+    background-color: lightgreen;
+}
+#three {
+    border-color: blue;
+    color: blue;
+}
+#three:hover {
+    background-color: lightskyblue;
+}
