@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  font-size: 25px;
+  margin-right: 20px;
+}
