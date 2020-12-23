@@ -1,0 +1,21 @@
+#container {
+    padding: 50px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+button {
+    font-size: 25px;
+    padding: 5px 10px;
+    margin-right: 10px;
+    align-content:center;
+}
+#red {
+    color: red;
+}
+#blue {
+    color: blue;
+}
+#green {
+    color: yellowgreen;
+}
